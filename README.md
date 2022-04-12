@@ -6,7 +6,7 @@ This document contains a guide to using Lendscape identity system. Make sure to 
 It will cover all brand elements - logo, colors, typefaces and more - in order to keep consistency in all materials. You shall reference the document often to become an expert when it comes to using Lendscape identity elements.
 ## Correct use of our name
 * Our project is called Lendscape which is one word and spelt with a capital L.
-* Our token is $LSCP.
+* Our token is $LENDS.
 * Our community is called Lendscapers.
 ## Branding Guidelines
 You may use the Lendscape name and logo in your website or app as long as you adhere to the Lendscape branding guidelines.
